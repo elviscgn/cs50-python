@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link
+            rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+            integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+            crossorigin="anonymous"
+        />
+        <title>This is check50.</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <h1>check50</h1>
+                <h2>cs50/problems/2022/python/tip</h2>
+                <hr />
+
+                <h3 style="color: green">:) tip.py exists</h3>
+
+                <div class="well well-sm">
+                    <samp>
+                        <b>Log</b><br />
+                        <div
+                            style="
+                                border: 2px solid;
+                                padding: 2px;
+                                max-height: 20em;
+                                overflow: scroll;
+                            "
+                        >
+                            checking that tip.py exists...
+                            <br />
+                        </div>
+                    </samp>
+                </div>
+
+                <h3 style="color: red">
+                    :( input of $50.00 and 15% yields $7.50
+                </h3>
+
+                <div class="well well-sm">
+                    <p>
+                        <b>Cause</b><br />
+
+                        expected&nbsp;&#34;Leave&nbsp;$7.50\n&#34;,&nbsp;not&nbsp;&#34;Leave&nbsp;$750.00\...&#34;
+
+                        <br />
+                    </p>
+
+                    <samp>
+                        <b>Log</b><br />
+                        <div
+                            style="
+                                border: 2px solid;
+                                padding: 2px;
+                                max-height: 20em;
+                                overflow: scroll;
+                            "
+                        >
+                            running python3 tip.py...
+                            <br />
+
+                            sending input $50.00...
+                            <br />
+
+                            sending input 15%...
+                            <br />
+
+                            checking for output &#34;Leave $7.50\n&#34;...
+                            <br />
+                        </div>
+                    </samp>
+
+                    <br />
+                    <div class="row">
+                        <div class="col-md-6">
+                            <b>Expected Output:</b>
+                            <br />
+                            <div style="background-color: black; color: white">
+                                <samp> Leave&nbsp;$7.50<br /> </samp>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <b>Actual Output:</b>
+                            <br />
+                            <div style="background-color: black; color: white">
+                                <samp> Leave&nbsp;$750.00<br /> </samp>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <h3 style="color: red">
+                    :( input of $100.00 and 18% yields $18.00
+                </h3>
+
+                <div class="well well-sm">
+                    <p>
+                        <b>Cause</b><br />
+
+                        expected&nbsp;&#34;Leave&nbsp;$18.00\n...&#34;,&nbsp;not&nbsp;&#34;Leave&nbsp;$1800.00...&#34;
+
+                        <br />
+                    </p>
+
+                    <samp>
+                        <b>Log</b><br />
+                        <div
+                            style="
+                                border: 2px solid;
+                                padding: 2px;
+                                max-height: 20em;
+                                overflow: scroll;
+                            "
+                        >
+                            running python3 tip.py...
+                            <br />
+
+                            sending input $100.00...
+                            <br />
+
+                            sending input 18%...
+                            <br />
+
+                            checking for output &#34;Leave $18.00\n&#34;...
+                            <br />
+                        </div>
+                    </samp>
+
+                    <br />
+                    <div class="row">
+                        <div class="col-md-6">
+                            <b>Expected Output:</b>
+                            <br />
+                            <div style="background-color: black; color: white">
+                                <samp> Leave&nbsp;$18.00<br /> </samp>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <b>Actual Output:</b>
+                            <br />
+                            <div style="background-color: black; color: white">
+                                <samp> Leave&nbsp;$1800.00<br /> </samp>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <h3 style="color: red">
+                    :( input of $15.00 and 25% yields $3.75
+                </h3>
+
+                <div class="well well-sm">
+                    <p>
+                        <b>Cause</b><br />
+
+                        expected&nbsp;&#34;Leave&nbsp;$3.75\n&#34;,&nbsp;not&nbsp;&#34;Leave&nbsp;$375.00\...&#34;
+
+                        <br />
+                    </p>
+
+                    <samp>
+                        <b>Log</b><br />
+                        <div
+                            style="
+                                border: 2px solid;
+                                padding: 2px;
+                                max-height: 20em;
+                                overflow: scroll;
+                            "
+                        >
+                            running python3 tip.py...
+                            <br />
+
+                            sending input $15.00...
+                            <br />
+
+                            sending input 25%...
+                            <br />
+
+                            checking for output &#34;Leave $3.75\n&#34;...
+                            <br />
+                        </div>
+                    </samp>
+
+                    <br />
+                    <div class="row">
+                        <div class="col-md-6">
+                            <b>Expected Output:</b>
+                            <br />
+                            <div style="background-color: black; color: white">
+                                <samp> Leave&nbsp;$3.75<br /> </samp>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <b>Actual Output:</b>
+                            <br />
+                            <div style="background-color: black; color: white">
+                                <samp> Leave&nbsp;$375.00<br /> </samp>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
