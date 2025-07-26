@@ -1,11 +1,19 @@
-# CS50 python crash course
+# CS50 Python diary
 
-Day 23 July
+## Day 1 – 23 July 2025
 
--   I'm familiar with python so hopefully I can do this ina day?
+-   I'm already familiar with Python, so hopefully I can complete the course in a day?
 
-Day 26 July
+---
 
--   Done with week one python
+## Day 2 – 26 July 2025
 
-# cs50-python
+-   Finished Week 0: Functions,
+-   Covered topics: conditionals, loops, functions.
+-   Problem sets were manageable — I mostly reviewed known concepts.
+
+---
+
+## Day 3 – 27 July 2025
+
+-   Week 2 start
