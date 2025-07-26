@@ -7,4 +7,5 @@ Day 23 July
 Day 26 July
 
 -   Done with week one python
+
 # cs50-python
