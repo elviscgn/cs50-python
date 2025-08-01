@@ -1,4 +1,4 @@
-# CS50 Python diary
+# CS50 Python diary (WETHINKCODE)
 
 ## Day 1 – 23 July 2025
 
@@ -21,3 +21,7 @@
 ## Day 4 – 30 July 2025
 
 -   deep done
+
+## Day 5 - 01 August 2025
+
+-   working on interpreter.py
