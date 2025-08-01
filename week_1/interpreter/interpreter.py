@@ -1,15 +1,12 @@
-num1, operator, num2 = input().split()
+num1, operator, num2 = input("Expression: ").split()
 
 if operator == "+":
-    result = int(num1) + int(num2)
+    result = float(num1) + float(num2)
 elif operator == "-":
-    result = int(num1) - int(num2)
+    result = float(num1) - float(num2)
 elif operator == "*":
-    result = int(num1) * int(num2)
+    result = float(num1) * float(num2)
 elif operator == "/":
-    result = int(num1) / int(num2)
+    result = float(num1) / float(num2)
 
-
-
-
-print(nu)
+print(result)
