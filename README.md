@@ -25,3 +25,20 @@
 ## Day 5 - 01 August 2025
 
 -   working on interpreter.py
+
+## Day 6 - 02 August 2025
+
+-   finished interpreter & meal.py
+
+## Day 7 - 05 August 2025
+
+-   started pset 2 week 2
+-   finished plates.py
+
+## Day 8 - 07 August 2025
+
+-   finished camel.py
+
+## Day 9 - 10 August 2025
+
+-   finished twttr.py
