@@ -1,8 +1,16 @@
-message = input("Greeting: ")
+def main():
+    greeting = input("Greeting: ").strip().lower()
+    print(f"${value(greeting)}")
 
-if "hello" in message.lower().strip():
-    print("$0")
-elif "how" in message.lower().strip():
-    print("$20")
-elif "what's" in message.lower().strip():
-    print("$100")
+
+def value(greeting):
+    if greeting.lower().startswith('hello'):
+        return 0
+    elif greeting.lower().startswith('h'):
+        return 20
+    else:
+        return 100
+
+
+if __name__ == "__main__":
+    main()
