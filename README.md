@@ -2,7 +2,7 @@
 
 ## Day 1 – 23 July 2025
 
--   I'm already familiar with Python, so hopefully I can complete the course in a day?
+-   start
 
 ---
 
