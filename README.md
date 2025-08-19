@@ -2,7 +2,7 @@
 
 ## Day 1 – 23 July 2025
 
--   start
+-   I'm already familiar with Python, so hopefully I can complete the course in a day?
 
 ---
 
@@ -42,3 +42,22 @@
 ## Day 9 - 10 August 2025
 
 -   finished twttr.py
+
+## Day 10 - 11 August 2025
+
+-   finished nutrion.py easiest so far
+
+## Day 11 - 12 August 2025
+
+-   finished
+-   fuel.py
+
+## Day 12 - 13 August 2025
+
+-   finished
+-   taqueria.py
+
+## Day 13 - 14 August 2025
+
+-   finished
+-   grocery.py
