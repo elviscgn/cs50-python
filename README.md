@@ -61,3 +61,27 @@
 
 -   finished
 -   grocery.py
+
+## Day 14 - 15 August 2025
+
+-   finished
+
+## Day 14 - 15 August 2025
+
+-   finished
+
+## Day 14 - 15 August 2025
+
+-   finished
+
+## Day 14 - 15 August 2025
+
+-   finished
+
+## Day 14 - 15 August 2025
+
+-   finished
+
+## Day 14 - 15 August 2025
+
+-   finished
